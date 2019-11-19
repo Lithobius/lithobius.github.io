@@ -1,3 +1,3 @@
 # lithobius.github.io
 
-#Misc Figures
+# Misc Figures
