@@ -13,8 +13,9 @@ website:
 
 format:
   html:
+    respect-user-color-scheme: true
     theme:
-      - cosmo
+      - yeti
       - brand
     css: styles.css
     toc: true
