@@ -1,9 +1,0 @@
----
-title: "About"
----
-
-under construction yeah
-
-```{r}
-1 + 1
-```
